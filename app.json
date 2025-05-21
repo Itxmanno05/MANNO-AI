@@ -1,9 +1,9 @@
 {
-  "name": "PRINCEAI",
+  "name": "MANNOAI",
   "description": "whatsapp user bot",
-  "repository": "https://github.com/DASTAGHIR/PRINCEAI",
-  "logo": "https://files.catbox.moe/76879w.png",
-  "success_url": "https://github.com/DASTAGHIR/PRINCEAI",
+  "repository": "https://github.com/Itxmanno05/MANNO-AI",
+  "logo": "https://i.imgur.com/EOU8n5C.jpg",
+  "success_url": "https://github.com/Itxmanno05/MANNO-AI",
   "keywords": [
     "nodejs", "heroku", "bot", "urdu", "english", "indonesian", "arab", "portuguese", "italian", "french", "whatsapp",
     "termux", "superbot", "multi-device", "md", "official", "javascript", "princebot"
@@ -19,12 +19,12 @@
     "BOT_NAME": {
       "description": "put your BOT a name",
       "required": true,
-      "value": "PRINCE-BOT"
+      "value": "MANNO-BOT"
     },
     "OWNER_NUMBER": {
       "description": "put your Number and name for Owner",
       "required": true,
-      "value": "639129985130,DEVELOPER"
+      "value": "923097045246,DEVELOPER"
     },
     "owner_react_emojie": {
       "description": "put one emojie for owner reacts",
@@ -129,7 +129,7 @@
     "PACK_NAME": {
       "description": "put your stickers pack name",
       "required": false,
-      "value": "Prince♥️"
+      "value": "MANNO♥️"
     },
     "DL_MSG": {
       "description": "Video downloader caption",
