@@ -1,12 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:FF1493&height=180&section=header&text=DASTAGEER'S%20PRINCE%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:FF1493&height=180&section=header&text=MANNO'S%20-%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
 
 <div align="center" style="margin: 30px; font-family: 'Segoe UI', sans-serif;">
     <a href="">
         <img 
-            alt="PRINCE BOT" 
+            alt="MANNO BOT" 
             width="720"
             height="420" 
-            src="https://files.catbox.moe/230rfz.jpg" 
+            src="https://i.imgur.com/EOU8n5C.jpg" 
             style="border: 4px solid #FF69B4; 
                    border-radius: 20px; 
                    box-shadow: 0 8px 24px rgba(255, 105, 180, 0.3);"
